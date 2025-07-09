@@ -1,2 +1,12 @@
 # lab1
 repository for lab1
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sample HTML</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is a sample HTML file.</p>
+</body>
+</html>
